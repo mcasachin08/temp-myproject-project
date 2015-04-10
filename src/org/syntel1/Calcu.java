@@ -23,7 +23,7 @@ public class Calcu implements CalculatorContract {
 
 	@Override
 	public int multiplication(int number1, int number2) {
-	System.out.println("abc");
+	System.out.println("hello");
 		return number1 * number2;
 	}
 
