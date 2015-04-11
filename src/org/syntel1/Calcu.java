@@ -16,7 +16,7 @@ public class Calcu implements CalculatorContract {
 	@WebMethod
 	public int substraction(int number1 , int number2)
 	{
-		System.out.println("Sub");
+		System.out.println("Substraction");
 		return number1 - number2;
 
 	}
